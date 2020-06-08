@@ -1,0 +1,1 @@
+# storm-twitter-collect-word
