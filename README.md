@@ -2,7 +2,9 @@
 
 ##### result
 
-![pic](baidu.com)
+![pic1](https://github.com/hanzs9/storm-twitter-collect-word/blob/master/res1.png)
+
+![pic2](https://github.com/hanzs9/storm-twitter-collect-word/blob/master/res2.png)
 
 ### Aims
 
